@@ -1,0 +1,2 @@
+@flarenetwork/flare-periphery-contracts=lib/flare-periphery-contracts
+forge-std=lib/forge-std/src
