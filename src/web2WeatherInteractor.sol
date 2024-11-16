@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
 
-import {IJsonApiVerification} from "./generated/interfaces/verification/IJsonApiVerification.sol";
+import {IJsonApiVerification, IJsonApi} from "./generated/interfaces/verification/IJsonApiVerification.sol";
 import {JsonApiVerification} from "./generated/implementation/verification/JsonApiVerification.sol";
 import {Weather} from "./Weather.sol";
 
